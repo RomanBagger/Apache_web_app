@@ -1,3 +1,4 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
 <title>Sample Application JSP Page</title>
@@ -22,7 +23,7 @@ application. Also write some text and changes background colors for this page.
 </table>
 
 <%= new String("Hello!") %>
-<%= second String("This internship is very intresting") %>
+<%= new String("This internship is very intresting") %>
 
 </body>
 </html>
